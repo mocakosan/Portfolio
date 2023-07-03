@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. Metastone
+### 1. Metastone - 키페어
 >블록체인 보증 서비스  
 >개발 기간: 2022.10.1 ~ 2022.11.1  
 >  
@@ -26,8 +26,8 @@
 
 ---
 
-### 2. 키월렛터치
-> Safe Muti Chain Crypto Wallet  (팀 프로젝트)  
+### 2. 키월렛터치 - 키페어
+> Safe Muti Chain Crypto Wallet  
 >개발 기간: 2022.11.07 ~ 2023.02.28  
 >  
 >기술 스택:  
@@ -36,7 +36,7 @@
 ---
 
 ### 2. Food-Delivery-app
->배달 앱 서비스
+>배달 앱 서비스 (개인 프로젝트)
 >개발 기간: 2023.05 
 >  
 >기술 스택:  
