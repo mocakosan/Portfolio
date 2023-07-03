@@ -35,10 +35,12 @@
 
 ---
 
-### 3. [세 번째 프로젝트]()
+### 3. [Sansbook](https://sansbook.co.kr/)
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>개발 기간: 2022.04 
 >  
->기술 스택:  
-
+>기술 스택:
+>React / Next.js / Redux-thunk / node.js / mysql
+>  
+>[프로젝트 상세 설명](https://github.com/mocakosan/sansbook)참고
 
