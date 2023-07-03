@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 이메일: mocakosan96@gmail.com
+- 블로그: https://velog.io/@mocakosan
+- 깃헙: https://github.com/mocakosan
 
 </br>
 
