@@ -27,7 +27,7 @@
 ---
 
 ### 2. 키월렛터치
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+> Safe Muti Chain Crypto Wallet  (팀 프로젝트)  
 >개발 기간: 2022.11.07 ~ 2023.02.28  
 >  
 >기술 스택:  
@@ -36,17 +36,17 @@
 ---
 
 ### 2. Food-Delivery-app
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2022.11.07 ~ 2023.02.28  
+>배달 앱 서비스
+>개발 기간: 2023.05 
 >  
 >기술 스택:  
->React-Native / Typescript / Axios /Websocket
+>React-Native / Typescript 
 >
 >[프로젝트 상세 설명](https://github.com/mocakosan/Food-Delivery-app)참고
 ---
 
 ### 3. [Sansbook](https://sansbook.co.kr/)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
+>SNS 서비스  (개인 프로젝트)  
 >개발 기간: 2022.04 
 >  
 >기술 스택:
