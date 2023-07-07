@@ -23,7 +23,8 @@
 >  
 >기술 스택:  
 >React-Native / Typescript / Axios
-
+>
+>[프로젝트 상세 설명](https://sansfolio.com/portfolio/3)참고
 ---
 
 ### 2. 키월렛터치 - 키페어
@@ -32,7 +33,8 @@
 >  
 >기술 스택:  
 >React-Native / Typescript / Axios /Websocket
-
+>
+>[프로젝트 상세 설명](https://sansfolio.com/portfolio/4)참고
 ---
 
 ### 2. Food-Delivery-app
